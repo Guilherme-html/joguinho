@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=3 uid="uid://dpjoatsgokkaj"]
+
+[ext_resource type="Texture2D" uid="uid://dk1lha2o36ae3" path="res://fa7b5abc-4440-4141-b76f-3e16c20f2f6b-1664094196751.png" id="1_kohno"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="TextureRect" type="TextureRect" parent="."]
+offset_right = 1921.0
+offset_bottom = 1087.0
+texture = ExtResource("1_kohno")
